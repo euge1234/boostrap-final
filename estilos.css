@@ -1,0 +1,24 @@
+header {
+    background-image: url('imagenes/foto5.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    background-position: center;
+}
+
+section h2 {
+    font-weight: bold;
+}
+
+footer p {
+    margin: 0;
+}
+
+.voicesofchanges{
+    display: flex;
+    justify-content: center;
+}
